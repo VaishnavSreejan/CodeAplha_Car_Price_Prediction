@@ -311,6 +311,6 @@ Car depreciation is intrinsically non-linear (an exponential decay curve over ve
 ## 👤 Author & Acknowledgments
 
 - **Intern:** Vaishnav Sreejan
-- **Internship Provider:** [CodeAlpha](https://codealpha.tech/)
+- **Internship Provider:** CodeAlpha
 - **Domain:** Data Science & Machine Learning
 *Submitted as part of the official evaluation for CodeAlpha Data Science Virtual Internship Task 3.*
